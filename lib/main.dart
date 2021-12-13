@@ -1,4 +1,4 @@
-import 'package:dsc_widget/widget_second/stataful_widget_page.dart';
+import 'package:dsc_widget/widget_second/stateful_widget_page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
