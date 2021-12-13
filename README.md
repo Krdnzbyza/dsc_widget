@@ -1,17 +1,4 @@
 # dsc_widget
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# dsc_widget
+![Simulator Screen Shot - iPhone 13 - 2021-12-13 at 21 10 11](https://user-images.githubusercontent.com/57248151/145865683-7da4afdd-4411-47a5-9d34-63584b78be46.png)
+![Simulator Screen Shot - iPhone 13 - 2021-12-13 at 21 10 14](https://user-images.githubusercontent.com/57248151/145865689-80dbece4-df79-4f12-8368-2f2c3770764d.png)
+![Simulator Screen Shot - iPhone 13 - 2021-12-13 at 20 30 18](https://user-images.githubusercontent.com/57248151/145865679-bcd7203a-9462-4e06-aba1-e3cb85044f01.png)
